@@ -15,4 +15,4 @@ It also includes the following examples:
 - K-means for image color compression
 - K-means for market customer segmentation
 
-Please open the `Kmeans.ipnyb` file, or read the `k-means-machine-learning.pdf` article in this repo.
+Please open the `kmeans.ipnyb` file, or read the `k-means-machine-learning.pdf` article in this repo.
