@@ -15,4 +15,6 @@ It also includes the following examples:
 - K-means for image color compression
 - K-means for market customer segmentation
 
+Packages used: NumPy, Pandas, Scikit-learn, Jupyter Notebook
+
 Please open the `kmeans.ipnyb` file, or read the `k-means-machine-learning.pdf` article in this repo.
